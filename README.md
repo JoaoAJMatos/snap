@@ -1,4 +1,4 @@
-<center>
+<div style="text-align: center;">
 
 ![img.png](img/thanitos.png)
 
@@ -16,4 +16,12 @@ Start bringing balance to the universe, one file at a time:
 snap <filename>
 ```
 
-</center>
+## Build from source
+
+```bash
+git clone https://github.com/JoaoAJMatos/snap.git
+cd snap
+make
+```
+
+</div>
